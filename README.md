@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md. Jilani Nadaf
 
-### 🌐 Web Developer | ⚙️ Backend Developer | 🐍 Python Developer
+### 🌐 Web Developer | ⚙️ Full Stack Developer | 🐍 Python Developer
 
 ---
 
