@@ -1,26 +1,31 @@
 # Hi 👋, I'm Md. Jilani Nadaf
 
-### 🌐 Full Stack Developer | 🐍 Python Developer | ⚙️ Backend Developer
+### 🐍 Python Developer | 🌐 Full Stack Developer | 🤖 AI/ML Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** focused on building responsive, user-friendly, and reliable web applications. I specialize in backend development using **Python, Django, and Django REST Framework**, along with frontend technologies to create complete web solutions.
+I'm a passionate **Python Developer** focused on building responsive, user-friendly, and reliable web applications, as well as exploring data-driven solutions through Artificial Intelligence and Machine Learning. I work with **Python, Django, Django REST Framework**, and frontend technologies to create complete web solutions, while expanding my knowledge in data analysis and machine learning.
 
-I enjoy developing web applications, designing REST APIs, managing relational databases, implementing authentication and authorization, and building interactive user interfaces.
+I enjoy developing web applications, designing REST APIs, managing relational databases, implementing authentication and authorization, building interactive user interfaces, analyzing datasets, and developing machine learning models for predictive tasks.
 
 - 🌐 Focused on **Full Stack Web Development**
 - 🎨 Developing responsive user interfaces using **HTML, CSS & JavaScript**
 - 🐍 Building backend applications using **Python & Django**
 - 🔗 Developing REST APIs using **Django REST Framework**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Performing **Data Analysis & Exploratory Data Analysis (EDA)**
+- 🧹 Working with **Data Cleaning, Preprocessing & Feature Engineering**
+- 🧠 Building Machine Learning models for **Predictive Analytics**
+- 📈 Exploring **Regression, Classification & Model Evaluation**
 - 🔐 Implementing **Authentication & Authorization**
 - 🗄️ Working with **PostgreSQL & relational databases**
 - 🧩 Designing database schemas, models, and relationships
 - 🛠️ Testing and documenting APIs using **Postman & Swagger**
 - 🔄 Version control using **Git & GitHub**
 - 🧪 Familiar with **Pytest, Selenium & API Testing**
-- 📚 Continuously learning and improving my development skills
+- 📚 Continuously learning and improving my skills in **Full Stack Development, AI & Machine Learning**
 
 ---
 
@@ -38,6 +43,16 @@ I enjoy developing web applications, designing REST APIs, managing relational da
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### 🤖 AI & Machine Learning
+
+- Data Analysis & Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Supervised Machine Learning
+- Regression & Classification
+- Model Training & Evaluation
+- Performance Metrics
 
 ### 🔐 Authentication & Security
 
@@ -83,6 +98,6 @@ I enjoy developing web applications, designing REST APIs, managing relational da
 
 ---
 
-### 💡 "Build it. Test it. Improve it."
+### 💡 "Build it. Train it. Test it. Improve it."
 
 ⭐ Feel free to explore my repositories and follow my development journey.
